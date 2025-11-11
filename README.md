@@ -1,4 +1,4 @@
-# MP_PROG2_Simple_Translator
+# CCPROG2 Machine Project: Simple Translation Tool 
 
 A simple translator for the Machine Project for CCPROG2.
 
